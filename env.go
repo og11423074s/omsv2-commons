@@ -1,4 +1,4 @@
-package common
+package omsv2_commons
 
 import (
 	"os"
